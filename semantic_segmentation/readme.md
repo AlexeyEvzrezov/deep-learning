@@ -1,6 +1,6 @@
 # Semantic Segmentation of Melanoma Skin Lesions
 ## Networks Implementation:
-- Segnet
+- SegNet
 - U-Net
 - U-Net 2  
 
